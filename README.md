@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-12345/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-12345/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Santhosh-12345/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
