@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh-12345/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Santhosh-12345/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh-12345/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Santhosh-12345/Leetcode/tree/master/0216-combination-sum-iii) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh-12345/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh-12345/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
