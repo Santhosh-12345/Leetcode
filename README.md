@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Santhosh-12345/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Santhosh-12345/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Santhosh-12345/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0136-single-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Santhosh-12345/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Santhosh-12345/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
