@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Santhosh-12345/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0189-rotate-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Santhosh-12345/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Santhosh-12345/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh-12345/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh-12345/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
