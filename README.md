@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Santhosh-12345/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Santhosh-12345/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Santhosh-12345/Leetcode/tree/master/0051-n-queens) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Santhosh-12345/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Santhosh-12345/Leetcode/tree/master/0051-n-queens) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh-12345/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
