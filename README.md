@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Santhosh-12345/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh-12345/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Santhosh-12345/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh-12345/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Santhosh-12345/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh-12345/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
