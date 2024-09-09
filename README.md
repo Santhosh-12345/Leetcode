@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh-12345/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1127-last-stone-weight](https://github.com/Santhosh-12345/Leetcode/tree/master/1127-last-stone-weight) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Santhosh-12345/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh-12345/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Santhosh-12345/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Santhosh-12345/Leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
