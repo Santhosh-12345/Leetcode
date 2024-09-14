@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Santhosh-12345/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Santhosh-12345/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Santhosh-12345/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Santhosh-12345/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Santhosh-12345/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Santhosh-12345/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Santhosh-12345/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Santhosh-12345/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Design
@@ -175,9 +177,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Santhosh-12345/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Santhosh-12345/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Santhosh-12345/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Santhosh-12345/Leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
