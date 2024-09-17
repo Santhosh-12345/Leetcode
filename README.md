@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh-12345/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Santhosh-12345/Leetcode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Santhosh-12345/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Santhosh-12345/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Santhosh-12345/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
+| [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Santhosh-12345/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Search
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Santhosh-12345/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Santhosh-12345/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Santhosh-12345/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Santhosh-12345/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Santhosh-12345/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Santhosh-12345/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh-12345/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
 |  |
@@ -202,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Santhosh-12345/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Santhosh-12345/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Santhosh-12345/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Santhosh-12345/Leetcode/tree/master/1073-number-of-enclaves) |
