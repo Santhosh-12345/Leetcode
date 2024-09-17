@@ -13,7 +13,7 @@ class disjoint{
     {
         if(x==parent[x])
         return x;
-        return findParent(parent[x]);
+        return parent[x]=findParent(parent[x]);
     }
     void unionSets(int u,int v)
     {
