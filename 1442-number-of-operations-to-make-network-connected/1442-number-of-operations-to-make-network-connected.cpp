@@ -52,9 +52,8 @@ public:
             if(ds.findParent(i)==i)
             ans++;
         }
-        int required=ans-1;;
-        if(extra>=required)
-        return required;
+        if(extra>=ans-1)
+        return ans-1;
         return -1;
     }
 };
