@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/Santhosh-12345/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Santhosh-12345/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Santhosh-12345/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
