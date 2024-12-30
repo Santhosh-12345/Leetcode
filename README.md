@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Santhosh-12345/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Santhosh-12345/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Santhosh-12345/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Prefix Sum
 |  |
 | ------- |
