@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
