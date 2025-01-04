@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Santhosh-12345/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh-12345/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh-12345/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh-12345/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Santhosh-12345/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Santhosh-12345/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Santhosh-12345/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh-12345/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Santhosh-12345/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Santhosh-12345/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
