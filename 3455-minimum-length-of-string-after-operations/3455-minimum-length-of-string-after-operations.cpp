@@ -1,17 +1,19 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        unordered_map<char,int>mpp;
-        for(char c:s)
-        mpp[c]++;
-        int count=0;
-        for(auto it:mpp)
-        {
-            while(it.second>=3){
-            count+=2;
-            it.second-=2;
+        vector<int> charFrequency(26, 0);
+        int totalLength = 0;
+        for (char currentChar : s) {
+            charFrequency[currentChar - 'a']++;
+        }
+        for (int frequency : charFrequency) {
+            if (frequency == 0) continue; 
+            if (frequency % 2 == 0) {
+                totalLength += 2;
+            } else {
+                totalLength += 1; 
             }
         }
-        return s.size()-count;
+        return totalLength;
     }
 };
