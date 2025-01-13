@@ -10,12 +10,10 @@ public:
         }
         for(int i=0;i<26;i++)
         {
-            if(freq[i]==0)
-            continue;
-            if(freq[i]%2==0)
-            count+=2;
-            else if(freq[i]%2!=0)
-            count+=1;
+            if (freq[i] > 0) {
+                count += (freq[i] % 2 == 0) ? 2 : 1;
+            
+        }
         }
         return count;
     }
