@@ -1,20 +1,17 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        int n=s.size();
+        unordered_map<char,int>mpp;
+        for(char c:s)
+        mpp[c]++;
         int count=0;
-        int freq[26]={0};
-        for(int i=0;i<n;i++)
+        for(auto it:mpp)
         {
-            freq[s[i]-'a']++;
+            while(it.second>=3){
+            count+=2;
+            it.second-=2;
+            }
         }
-        for(int i=0;i<26;i++)
-        {
-            if (freq[i] > 0) {
-                count += (freq[i] % 2 == 0) ? 2 : 1;
-            
-        }
-        }
-        return count;
+        return s.size()-count;
     }
 };
