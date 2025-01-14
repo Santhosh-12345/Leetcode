@@ -1,36 +1,27 @@
 class Solution {
 public:
-    int c0(string s)
-    {
-        int count=0;
-        for(int i=0;i<s.size();i++)
-        {
-            if(s[i]=='0')
-            count++;
-        }
-        return count;
-    }
-    int c1(string s)
-    {
-        int count=0;
-        for(int i=0;i<s.size();i++)
-        {
-            if(s[i]=='1')
-            count++;
-        }
-        return count;
-    }
     int maxScore(string s) {
-        int n=s.size();
-        int maxi=0;
-        for(int i=0;i<n-1;i++)
-        {
-            string left = s.substr(0, i+1);
-            string right = s.substr(i+1);
-
-            int score = c0(left) + c1(right);
-            maxi = max(maxi, score);
+        int total_ones = 0;
+        for (char c : s) {
+            if (c == '1') total_ones++;
         }
-        return maxi;
+
+        int left_zeros = 0, right_ones = total_ones;
+        int max_score = 0;
+
+        // Iterate over splits (n-1 splits since both substrings must be non-empty)
+        for (int i = 0; i < s.size() - 1; i++) {
+            if (s[i] == '0') {
+                left_zeros++;
+            } else {
+                right_ones--;
+            }
+
+            // Calculate the current score
+            int score = left_zeros + right_ones;
+            max_score = max(max_score, score);
+        }
+
+        return max_score;
     }
 };
