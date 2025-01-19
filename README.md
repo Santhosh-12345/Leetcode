@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Santhosh-12345/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0283-move-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Santhosh-12345/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Santhosh-12345/Leetcode/tree/master/0542-01-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Santhosh-12345/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Santhosh-12345/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Santhosh-12345/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Santhosh-12345/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Santhosh-12345/Leetcode/tree/master/0130-surrounded-regions) |
+| [0407-trapping-rain-water-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Santhosh-12345/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Santhosh-12345/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Santhosh-12345/Leetcode/tree/master/1036-rotting-oranges) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/Santhosh-12345/Leetcode/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Santhosh-12345/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
