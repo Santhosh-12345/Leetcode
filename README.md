@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh-12345/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh-12345/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Santhosh-12345/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh-12345/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh-12345/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Santhosh-12345/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Santhosh-12345/Leetcode/tree/master/0207-course-schedule) |
@@ -376,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh-12345/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
