@@ -19,8 +19,8 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(root==NULL)
-        return root;
+        if(root==nullptr)
+        return nullptr;
         Node* leftmost=root;
         while(leftmost->left)
         {
