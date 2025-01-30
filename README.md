@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Santhosh-12345/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Santhosh-12345/Leetcode/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Santhosh-12345/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Santhosh-12345/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Santhosh-12345/Leetcode/tree/master/1127-last-stone-weight) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Santhosh-12345/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Santhosh-12345/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -363,8 +367,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
