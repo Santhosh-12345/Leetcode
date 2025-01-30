@@ -16,10 +16,10 @@ public:
         return NULL;
         return func(nums,0,nums.size()-1);
     }
-    TreeNode* func(vector<int>& nums,int left,int right)
+    TreeNode* func(const vector<int>& nums,int left,int right)
     {
         if(left>right)
-        return NULL;
+        return nullptr;
         int mid=left+(right-left)/2;
         TreeNode* node=new TreeNode(nums[mid]);
         node->left=func(nums,left,mid-1);
