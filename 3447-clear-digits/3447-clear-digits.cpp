@@ -6,7 +6,6 @@ public:
         {
             if(isdigit(c))
             {
-                if(!st.empty() && isalpha(st.top()))
                 st.pop();
             }
             else
