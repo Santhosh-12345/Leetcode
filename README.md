@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Santhosh-12345/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Santhosh-12345/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Santhosh-12345/Leetcode/tree/master/0216-combination-sum-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Santhosh-12345/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
