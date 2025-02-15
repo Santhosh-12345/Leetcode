@@ -4,6 +4,7 @@ public:
     {
         if(ind==sq.size())
         return sum==num;
+        if (sum > num) return false;
         int a=0;
         for(int i=ind;i<sq.size();i++)
         {
