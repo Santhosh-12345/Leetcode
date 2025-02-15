@@ -1,27 +1,34 @@
 class Solution {
 public:
-    bool isValid(int num,string sq,int ind,int sum)
+    bool check(int idx, string &p, int target)
     {
-        if(ind==sq.size())
-        return sum==num;
-        if (sum > num) return false;
-        int a=0;
-        for(int i=ind;i<sq.size();i++)
+        if (idx == p.size())
         {
-            a=a*10+(sq[i]-'0');
-            if(isValid(num,sq,i+1,sum+a))
-            return true;
+            if (target == 0)
+                return true;
+            else
+                return false;
+        }
+        if (target < 0)
+            return false;
+        for (int i = idx; i < p.size(); ++i)
+        {
+            string x = p.substr(idx, i + 1 - idx);
+            int y = stoi(x);
+            if (check(i + 1, p, target - y))
+                return true;
         }
         return false;
     }
     int punishmentNumber(int n) {
-        int sum=0;
-        for(int i=1;i<=n;i++)
+        long long ans = 0;
+        for (long long i = 1; i <= n; ++i)
         {
-            string square=to_string(i*i);
-            if(isValid(i,square,0,0))
-            sum+=i*i;
+            long long x = i * i;
+            string p = to_string(x);
+            if (check(0, p, i))
+                ans += (i * i);
         }
-        return sum;
+        return ans;
     }
 };
