@@ -1,10 +1,12 @@
 class Solution {
 public:
-    void func(int n,string &ans,int ind,vector<string> &happy)
+    void func(int n,string &ans,int ind,int &counter,string &result,int k)
     {
         if(ind==n)
         {
-            happy.push_back(ans);
+            counter++;
+            if(counter==k)
+            result=ans;
             return;
         }
         for(char ch='a';ch<='c';ch++)
@@ -12,17 +14,16 @@ public:
             if(ind==0 || ans[ind-1]!=ch)
             {
                 ans[ind]=ch;
-                func(n,ans,ind+1,happy);
+                func(n,ans,ind+1,counter,result,k);
                 ans[ind]=' ';
             }
         }
     }
     string getHappyString(int n, int k) {
         string ans(n,' ');
-        vector<string> happy;
-        func(n,ans,0,happy);
-        if(k>happy.size())
-        return "";
-        return happy[k-1];
+        string result="";
+        int counter=0;
+        func(n,ans,0,counter,result,k);
+        return result;
     }
 };
