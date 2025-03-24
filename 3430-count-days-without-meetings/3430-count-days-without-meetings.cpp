@@ -1,9 +1,10 @@
 class Solution {
 public:
     int countDays(int days, vector<vector<int>>& meetings) {
+        if(meetings.empty()) return days;
         int ans=0,l_end=0;
         sort(meetings.begin(),meetings.end());
-        for(auto it:meetings)
+        for(auto &it:meetings)
         {
             int s=it[0];
             int e=it[1];
