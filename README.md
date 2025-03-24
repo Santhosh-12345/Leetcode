@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Santhosh-12345/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Santhosh-12345/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Santhosh-12345/Leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Santhosh-12345/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Santhosh-12345/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/Santhosh-12345/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Stack
 |  |
 | ------- |
