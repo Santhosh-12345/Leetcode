@@ -3,6 +3,8 @@ public:
     int minOperations(vector<vector<int>>& grid, int x) {
         vector<int>arr;
         int n=grid.size(),m=grid[0].size();
+        // if(n=0 && m==0)
+        // return -1;
         int rem=grid[0][0]%x;
         for(int i=0;i<n;i++)
         {
