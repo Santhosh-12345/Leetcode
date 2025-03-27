@@ -26,7 +26,7 @@ public:
         {
             if(nums[i]==el)
             pre++;
-            if(pre*2>(i+1) &&  (count-pre)*2>(n-i-1))
+            if(pre>((i+1)/2) &&  (count-pre)>((n-i-1)/2))
             return i;
         }
         return -1;
