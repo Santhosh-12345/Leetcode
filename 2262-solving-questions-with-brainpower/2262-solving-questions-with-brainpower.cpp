@@ -13,6 +13,8 @@ public:
         return dp[ind]=max(pick,notpick);
     }
     long long mostPoints(vector<vector<int>>& questions) {
+        if(questions.size()==0)
+        return 0;
         vector<long long>dp(questions.size(),-1);
         return func(0,questions,dp);
     }
