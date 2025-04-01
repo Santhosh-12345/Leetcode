@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long func(int ind,vector<vector<int>>& questions,vector<long long>& dp)
+     long long func(int ind,vector<vector<int>>& questions,vector<long long>& dp)
     {
         if(ind>=questions.size())
         {
