@@ -6,7 +6,7 @@ public:
         string result="";
         int count=1;
         string prev=countAndSay(n-1);
-        for(int i=1;i<=prev.size();i++)
+        for(int i=1;i<prev.size();i++)
         {
             if(prev[i]==prev[i-1])
             count++;
@@ -15,7 +15,7 @@ public:
                 count=1;
             }
         }
-        // result+=to_string(count)+prev.back();
+        result+=to_string(count)+prev.back();
         
         return result;
     }
