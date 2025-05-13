@@ -15,7 +15,7 @@ public:
             }
             temp[0]=(arr[25]+temp[0])%mod;
             temp[1]=(arr[25]+temp[1])%mod;
-            arr=temp;
+            arr=move(temp);
             t--;
         }
         for(int n:arr)
