@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Santhosh-12345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Santhosh-12345/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0189-rotate-array) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Santhosh-12345/Leetcode/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Santhosh-12345/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Santhosh-12345/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Data Stream
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Santhosh-12345/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Santhosh-12345/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
