@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Santhosh-12345/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Santhosh-12345/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh-12345/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Santhosh-12345/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Santhosh-12345/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Santhosh-12345/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh-12345/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Santhosh-12345/Leetcode/tree/master/0455-assign-cookies) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Santhosh-12345/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Santhosh-12345/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/Santhosh-12345/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh-12345/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
