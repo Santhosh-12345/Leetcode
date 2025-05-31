@@ -1,6 +1,7 @@
 class Solution {
 public:
-    void solve(int col,vector<vector<string>>&ans,vector<string>&board,int n)
+    void solve(int col,vector<vector<string>>&ans,vector<string>&board,int n,
+    vector<int>&left,vector<int>&lower,vector<int>&upper)
     {
         if(col==n)
         {
@@ -10,48 +11,21 @@ public:
         //left
         for(int row=0;row<n;row++)
         {
-            if(isSafe(row,col,board,n))
+            if(left[row]==0 && lower[row+col]==0 && upper[n-1+col-row]==0)
             {
                 board[row][col]='Q';
-                solve(col+1,ans,board,n);
+                left[row]=1;
+                lower[row+col]=1;
+                upper[n-1+col-row]=1;
+                solve(col+1,ans,board,n,left,lower,upper);
                 board[row][col]='.';
+                left[row]=0;
+                lower[row+col]=0;
+                upper[n-1+col-row]=0;
             }
         }
         //lower
         //upper
-    }
-    bool isSafe(int i,int j,vector<string>&board,int n)
-    {
-        int di=i;
-        int dj=j;
-        //left
-        while(j>=0)
-        {
-            if(board[i][j]=='Q')
-            return false;
-            j--;
-        }
-        i=di;
-        j=dj;
-        //upper
-        while(i>=0 && j>=0)
-        {
-            if(board[i][j]=='Q')
-            return false;
-            i--;
-            j--;
-        }
-        i=di;
-        j=dj;
-        //lower
-        while(i<n && j>=0)
-        {
-            if(board[i][j]=='Q')
-            return false;
-            i++;
-            j--;
-        }
-        return true;
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>>ans;
@@ -61,7 +35,8 @@ public:
         {
             board[i]=s;
         }
-        solve(0,ans,board,n);
+        vector<int>left(n,0),lower(2*n-1,0),upper(2*n-1,0);
+        solve(0,ans,board,n,left,lower,upper);
         return ans;
     }
 };
