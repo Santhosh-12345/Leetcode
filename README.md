@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Santhosh-12345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Santhosh-12345/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Santhosh-12345/Leetcode/tree/master/0061-rotate-list) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Santhosh-12345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Santhosh-12345/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Santhosh-12345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Santhosh-12345/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
