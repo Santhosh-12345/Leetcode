@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Santhosh-12345/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Santhosh-12345/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Santhosh-12345/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0078-subsets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Santhosh-12345/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Santhosh-12345/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Santhosh-12345/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Santhosh-12345/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Santhosh-12345/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Santhosh-12345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Santhosh-12345/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Santhosh-12345/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Santhosh-12345/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
