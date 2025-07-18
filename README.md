@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Santhosh-12345/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Santhosh-12345/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Santhosh-12345/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Santhosh-12345/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Santhosh-12345/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Santhosh-12345/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Santhosh-12345/Leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Santhosh-12345/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Santhosh-12345/Leetcode/tree/master/0198-house-robber) |
