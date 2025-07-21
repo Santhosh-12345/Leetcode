@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Santhosh-12345/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/Santhosh-12345/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Santhosh-12345/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Santhosh-12345/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh-12345/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/Santhosh-12345/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Santhosh-12345/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/Santhosh-12345/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Santhosh-12345/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Santhosh-12345/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Santhosh-12345/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
