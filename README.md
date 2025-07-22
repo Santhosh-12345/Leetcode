@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Santhosh-12345/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Santhosh-12345/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Santhosh-12345/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1813-maximum-erasure-value](https://github.com/Santhosh-12345/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Santhosh-12345/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Santhosh-12345/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Santhosh-12345/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Santhosh-12345/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Santhosh-12345/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Santhosh-12345/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1813-maximum-erasure-value](https://github.com/Santhosh-12345/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Santhosh-12345/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Santhosh-12345/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Santhosh-12345/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1813-maximum-erasure-value](https://github.com/Santhosh-12345/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## String Matching
 |  |
 | ------- |
