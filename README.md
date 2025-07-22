@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Santhosh-12345/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Santhosh-12345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0952-word-subsets) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Santhosh-12345/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Santhosh-12345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/Santhosh-12345/Leetcode/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Santhosh-12345/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Santhosh-12345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh-12345/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## String Matching
 |  |
