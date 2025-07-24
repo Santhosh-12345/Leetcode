@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Santhosh-12345/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Santhosh-12345/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Santhosh-12345/Leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Santhosh-12345/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Santhosh-12345/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Santhosh-12345/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Santhosh-12345/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Santhosh-12345/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Santhosh-12345/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Santhosh-12345/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Santhosh-12345/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Santhosh-12345/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Santhosh-12345/Leetcode/tree/master/0151-reverse-words-in-a-string) |
