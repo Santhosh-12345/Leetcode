@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Santhosh-12345/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Santhosh-12345/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Santhosh-12345/Leetcode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh-12345/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Santhosh-12345/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Santhosh-12345/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Santhosh-12345/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Santhosh-12345/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Santhosh-12345/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/Santhosh-12345/Leetcode/tree/master/1127-last-stone-weight) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Santhosh-12345/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Santhosh-12345/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Santhosh-12345/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1813-maximum-erasure-value](https://github.com/Santhosh-12345/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## String Matching
@@ -611,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Santhosh-12345/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Santhosh-12345/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
