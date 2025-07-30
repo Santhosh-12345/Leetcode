@@ -644,5 +644,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/Santhosh-12345/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1942-primary-department-for-each-employee](https://github.com/Santhosh-12345/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/Santhosh-12345/Leetcode/tree/master/2024-calculate-special-bonus) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Santhosh-12345/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Santhosh-12345/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
