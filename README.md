@@ -627,4 +627,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Santhosh-12345/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Santhosh-12345/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Santhosh-12345/Leetcode/tree/master/0197-rising-temperature) |
+| [1179-game-play-analysis-i](https://github.com/Santhosh-12345/Leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
