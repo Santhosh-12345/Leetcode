@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Santhosh-12345/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Santhosh-12345/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Santhosh-12345/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Santhosh-12345/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Santhosh-12345/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Santhosh-12345/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Santhosh-12345/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Santhosh-12345/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Santhosh-12345/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Santhosh-12345/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Santhosh-12345/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Santhosh-12345/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Santhosh-12345/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Santhosh-12345/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Santhosh-12345/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Santhosh-12345/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Santhosh-12345/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
